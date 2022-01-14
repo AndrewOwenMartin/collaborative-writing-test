@@ -58,3 +58,7 @@ You can make a quote like you would see a forwarded email, you start the line wi
 > Made glorious summer by this sun of York;
 > And all the clouds that lour'd upon our house
 > In the deep bosom of the ocean buried.
+
+## Comments
+
+You can have text that renders normally. <? You can have text that is hidden and discusses the text, this is really useful and essential for editing and collaboration. ?>
